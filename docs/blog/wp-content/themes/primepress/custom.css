@@ -1,0 +1,14 @@
+/*-----attach body.custom to any style you add here-----*/
+
+/*-----custom link styles - these govern the links within post content and are here to show you how. 
+modify them to your liking or delete them and add your own-----*/
+
+body.custom .entry-content a {
+	font-weight: bold;
+	text-decoration: underline;
+	}
+	
+body.custom .entry-content a:hover {
+	text-decoration: none;
+	color: #0098ED;
+	}
